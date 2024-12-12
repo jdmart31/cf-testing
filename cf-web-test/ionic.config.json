@@ -1,0 +1,7 @@
+{
+  "name": "cf-web-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
